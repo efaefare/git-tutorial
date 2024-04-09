@@ -1,2 +1,4 @@
-チュートリアル開始
-fixBS
+# Gitチュートリアル
+
+ - feature-A
+ - fix-B
